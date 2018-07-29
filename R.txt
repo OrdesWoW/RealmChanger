@@ -1,6 +1,0 @@
-set realmlist logon.elysium-project.org
-set realmlist login.kronos-wow.com
-set realmlist logon.lightshope.org
-set realmlist logon.sunwell.pl
-set realmlist 127.0.0.1
-ADD REALM LIST HERE
